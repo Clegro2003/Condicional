@@ -1,3 +1,5 @@
+/*Desarrollar una calculadora básica en Java que permita a los usuarios realizar operaciones aritméticas 
+simples, como suma, resta, multiplicación y división*/
 import java.util.*;
 
 /**
